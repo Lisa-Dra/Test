@@ -1,0 +1,14 @@
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\bin\Debug\net8.0\HotelMenue.exe
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\bin\Debug\net8.0\HotelMenue.deps.json
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\bin\Debug\net8.0\HotelMenue.runtimeconfig.json
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\bin\Debug\net8.0\HotelMenue.dll
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\bin\Debug\net8.0\HotelMenue.pdb
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.AssemblyInfoInputs.cache
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.AssemblyInfo.cs
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.csproj.CoreCompileInputs.cache
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.dll
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\refint\HotelMenue.dll
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.pdb
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\HotelMenue.genruntimeconfig.cache
+C:\Schoolstuff\ITL\HotelMenue\HotelMenue\obj\Debug\net8.0\ref\HotelMenue.dll
